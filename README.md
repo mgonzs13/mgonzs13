@@ -12,19 +12,17 @@ My name is Miguel 👨‍🔬, and I am a PhD in Robotics and AI 🤖 working at
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=mgonzs13&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&include_orgs=true&hide_rank=true&card_width=500)
+![](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=mgonzs13&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&include_orgs=true&hide_rank=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mgonzs13&theme=dark&hide_border=false&card_width=500)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mgonzs13&theme=dark&hide_border=false&card_width=600)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mgonzs13&theme=dark&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&card_width=500)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mgonzs13&theme=dark&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&card_width=600)
+
+![](https://github-contributor-stats.vercel.app/api?username=mgonzs13&limit=8&theme=dark&combine_all_yearly_contributions=true&card_width=600&custom_title=Top%20Contributed%20GitHub%20Repositories)
 
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=mgonzs13&theme=discord&no-frame=false&no-bg=false&margin-w=5)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=mgonzs13&limit=8&theme=dark&combine_all_yearly_contributions=true&card_width=500&custom_title=Miguel's%20GitHub%20Contribution%20Stats)
 
 ---
 
