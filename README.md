@@ -1,10 +1,10 @@
-# Hello There 👋
+## Hello There 👋
 
 My name is Miguel 👨‍🔬, and I am a PhD in Robotics and AI 🤖 working at the Robotics Group of the University of León 🎓. I am passionate about robotics 🤖, cognitive architectures 🧠, software for robots 🖥️, artificial intelligence 💡, mobile robots 🦿, localization systems 🗺 and space robotics 🚀.
 
 ## 🌐 Socials
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mgonzs13) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white?style=for-the-badge)](https://discord.gg/https://discord.gg/tF9xYUaxjY) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.es/citations?user=4D2C-_wAAAAJ&hl=es&oi=ao) [![RearchGate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Miguel-A-Gonzalez-Santamarta) [![Orcid](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7658-8600) [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/miggsant) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-%C3%A1ngel-gonz%C3%A1lez-santamarta-3087ba181/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white?style=for-the-badge)](https://discord.gg/https://discord.gg/tF9xYUaxjY) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.es/citations?user=4D2C-_wAAAAJ&hl=es&oi=ao) [![RearchGate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Miguel-A-Gonzalez-Santamarta) [![Orcid](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7658-8600) [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/miggsant) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-%C3%A1ngel-gonz%C3%A1lez-santamarta-3087ba181/)
 
 ## 🚀 Tech Stack
 
@@ -12,11 +12,11 @@ My name is Miguel 👨‍🔬, and I am a PhD in Robotics and AI 🤖 working at
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=mgonzs13&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&include_orgs=true)
+![](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=mgonzs13&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&include_orgs=true&hide_rank=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mgonzs13&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mgonzs13&theme=dark&hide_border=false&card_width=500)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mgonzs13&theme=dark&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mgonzs13&theme=dark&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&card_width=500&)
 
 ## 🏆 GitHub Trophies
 
@@ -24,7 +24,7 @@ My name is Miguel 👨‍🔬, and I am a PhD in Robotics and AI 🤖 working at
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=mgonzs13&limit=8&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=mgonzs13&limit=8&theme=dark&combine_all_yearly_contributions=true&card_width=500&custom_title=Miguel's%20GitHub%20Contribution%20Stats)
 
 ---
 
