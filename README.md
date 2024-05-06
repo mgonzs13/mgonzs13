@@ -16,7 +16,7 @@ My name is Miguel 👨‍🔬, and I am a PhD in Robotics and AI 🤖 working at
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mgonzs13&theme=transparent&hide_border=false&card_width=600)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mgonzs13&theme=transparent&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&card_width=600)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mgonzs13&theme=discord&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&card_width=600)
 
 <!-- ![](https://github-contributor-stats.vercel.app/api?username=mgonzs13&limit=8&theme=transparent&combine_all_yearly_contributions=true&card_width=600&custom_title=Top%20Contributed%20GitHub%20Repositories) -->
 
