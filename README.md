@@ -22,13 +22,11 @@ My name is Miguel 👨‍🔬, and I am a PhD in Robotics and AI 🤖 working at
 
 </div>
 
-<!-- ![](https://github-contributor-stats.vercel.app/api?username=mgonzs13&limit=8&theme=transparent&combine_all_yearly_contributions=true&card_width=600&custom_title=Top%20Contributed%20GitHub%20Repositories) -->
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mgonzs13&theme=discord&no-frame=false&no-bg=false&margin-w=5&column=7)
+![GitHub Trophies](https://github-trophies.vercel.app/?username=mgonzs13&theme=discord&no-frame=false&no-bg=false&margin-w=5&column=7)
 
 </div>
 
