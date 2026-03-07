@@ -14,11 +14,11 @@ My name is Miguel 👨‍🔬, and I am a PhD in Robotics and AI 🤖 working at
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=mgonzs13&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&include_orgs=true&card_width=600)
+![GitHub Stats](./profile/stats.svg)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mgonzs13&theme=transparent&hide_border=false&card_width=600)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mgonzs13&theme=transparent&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&card_width=600&hide=html,css)
+![Top Languages](./profile/top-langs.svg)
 
 </div>
 
@@ -41,4 +41,3 @@ My name is Miguel 👨‍🔬, and I am a PhD in Robotics and AI 🤖 working at
 ![Profile Views](https://komarev.com/ghpvc/?username=mgonzs13&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
-
