@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="226.89"
+          width="226.94"
           height="8"
           fill="#f34b7d"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="226.89"
+          x="226.94"
           y="0"
-          width="183.33"
+          width="183.3"
           height="8"
           fill="#3572A5"
         />
@@ -148,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="410.22"
+          x="410.24"
           y="0"
-          width="60.17"
+          width="60.16"
           height="8"
           fill="#DA3434"
         />
@@ -158,7 +158,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="470.39000000000004"
+          x="470.4"
           y="0"
           width="33.33"
           height="8"
@@ -168,9 +168,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="503.72"
+          x="503.72999999999996"
           y="0"
-          width="20.36"
+          width="20.35"
           height="8"
           fill="#384d54"
         />
@@ -178,7 +178,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="524.08"
+          x="524.0799999999999"
           y="0"
           width="18.54"
           height="8"
@@ -188,7 +188,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="542.62"
+          x="542.6199999999999"
           y="0"
           width="13.96"
           height="8"
@@ -198,7 +198,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="546.58"
+          x="546.5799999999999"
           y="0"
           width="13.42"
           height="8"
@@ -211,7 +211,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#f34b7d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ 41.25%
+        C++ 41.26%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
