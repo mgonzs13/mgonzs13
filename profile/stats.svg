@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Miguel &#193;ngel Gonz&#225;lez Santamarta's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 1671, Total Commits  (last year) : 1399, Total PRs: 89, Total Issues: 7, Contributed to (last year): 6</desc>
+        <desc id="descId">Total Stars Earned: 1672, Total Commits  (last year) : 1401, Total PRs: 89, Total Issues: 7, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 54.568976880764886;
+        stroke-dashoffset: 54.56277454024129;
       }
     }
   
