@@ -14,11 +14,11 @@ My name is Miguel 👨‍🔬, and I am a PhD in Robotics and AI 🤖 working at
 
 <div align="center">
 
-![GitHub Stats](./profile/stats.svg)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mgonzs13&show_icons=true&include_all_commits=true&theme=transparent&card_width=600)](https://github-stats-extended.vercel.app/api?username=mgonzs13&show_icons=true&include_all_commits=true&theme=transparent&card_width=600)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mgonzs13&theme=transparent&hide_border=false&card_width=600)
 
-![Top Languages](./profile/top-langs.svg)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=mgonzs13&layout=compact&langs_count=6&theme=transparent&card_width=600)](https://github-stats-extended.vercel.app/api/top-langs?username=mgonzs13&layout=compact&langs_count=6&theme=transparent&card_width=600)
 
 </div>
 
